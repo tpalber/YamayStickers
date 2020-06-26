@@ -1,0 +1,2 @@
+# YamayStickers
+Repository of stickers
