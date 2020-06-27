@@ -1,4 +1,4 @@
-# Yamay Stickers 🤪
+# Yamay Stickers 🤙
 Express your bhoepa identity with Yamay Stickers. Featuring stickers of Tibetan cuisine and culture that can be used within your iMessage app. 
 > Currently only available for iOS devices. 😢
 
